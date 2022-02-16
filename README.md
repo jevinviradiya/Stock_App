@@ -1,2 +1,2 @@
 # Stock_App
-Get Stock App Data using API
+Get Stock Data using API
