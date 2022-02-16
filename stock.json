@@ -1,0 +1,40 @@
+{
+    "stocks": [
+        {
+            "id": 1,
+            "name": "SBI",
+            "logo": "https://1000logos.net/wp-content/uploads/2018/03/SBI-Logo-500x281.png",
+            "payload": {}
+        },
+        {
+            "id": 2,
+            "name": "ACC",
+            "logo": "https://1000logos.net/wp-content/uploads/2016/10/ACC-Logo-500x313.png",
+            "payload": {}
+        },
+        {
+            "id": 3,
+            "name": "MRF",
+            "logo": "https://www.carlogos.org/tire-brands-logos/MRF-Tyres-logo-640x470.jpg",
+            "payload": {}
+        },
+        {
+            "id": 4,
+            "name": "ITC",
+            "logo": "https://www.logo.wine/a/logo/ITC_Limited/ITC_Limited-Logo.wine.svg",
+            "payload": {}
+        },
+        {
+            "id": 5,
+            "name": "PSB",
+            "logo": "https://static.bankbazaar.com/images/bank-logos/PUNJAB_AND_SIND_BANK.png",
+            "payload": {}
+        },
+        {
+            "id": 6,
+            "name": "IFB",
+            "logo": "https://www.ifbagro.in/assets/images/logo.gif",
+            "payload": {}
+        }
+    ]
+}
